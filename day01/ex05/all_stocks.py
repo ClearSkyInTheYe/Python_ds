@@ -1,6 +1,5 @@
 import sys
 
-
 def search_by_value_or_by_key(argv):
     list_of_companies = argv.split(",")
     for n in range(len(list_of_companies)):

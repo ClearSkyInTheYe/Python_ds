@@ -1,21 +1,20 @@
-"id"	"created_at"	"name"	"has_test"	"alternate_url"
-"69724262"	"2022-09-12T15:51:54+0300"	"Data scientist"	false	"https://hh.ru/vacancy/69724262"
-"69216429"	"2022-09-13T15:58:32+0300"	"Data Scientist (NLP	 СV)"	false	"https://hh.ru/vacancy/69216429"
-"69713433"	"2022-09-12T13:20:00+0300"	"Middle Data Scientist"	false	"https://hh.ru/vacancy/69713433"
-"69674055"	"2022-09-12T19:03:42+0300"	"Data Engineer (Data Scientist)"	false	"https://hh.ru/vacancy/69674055"
-"69175957"	"2022-09-12T13:51:57+0300"	"Data Scientist"	false	"https://hh.ru/vacancy/69175957"
-"69712595"	"2022-09-12T13:07:34+0300"	"Team lead Data Scientist"	false	"https://hh.ru/vacancy/69712595"
-"69383038"	"2022-09-13T15:26:10+0300"	"Программист Python/Data Scientist (junior / middle)"	false	"https://hh.ru/vacancy/69383038"
-"68981446"	"2022-09-12T20:16:57+0300"	"Data Scientist (Computer Vision) - Junior"	false	"https://hh.ru/vacancy/68981446"
-"69763959"	"2022-09-13T17:07:15+0300"	"Data scientist (Data Office)"	false	"https://hh.ru/vacancy/69763959"
-"69542861"	"2022-09-12T17:13:44+0300"	"Data scientist/Phyton Developer"	false	"https://hh.ru/vacancy/69542861"
-"69694041"	"2022-09-12T08:50:05+0300"	"Data scientist"	false	"https://hh.ru/vacancy/69694041"
-"69197357"	"2022-09-13T14:55:33+0300"	"Data scientist / Аналитик"	false	"https://hh.ru/vacancy/69197357"
-"68979451"	"2022-09-12T17:55:34+0300"	"Data Scientist"	false	"https://hh.ru/vacancy/68979451"
-"68993868"	"2022-09-11T13:26:04+0300"	"Data Scientist"	false	"https://hh.ru/vacancy/68993868"
-"69713862"	"2022-09-12T13:24:11+0300"	"Senior Data Scientist"	false	"https://hh.ru/vacancy/69713862"
-"69774676"	"2022-09-13T18:19:13+0300"	"Data scientist (проект ""Антиспам"")"	false	"https://hh.ru/vacancy/69774676"
-"69689733"	"2022-09-12T06:47:59+0300"	"Главный эксперт по анализу данных (data analyst/data scientist/аналитик данных)"	false	"https://hh.ru/vacancy/69689733"
-"69778111"	"2022-09-13T19:08:46+0300"	"Data scientist"	false	"https://hh.ru/vacancy/69778111"
-"69774297"	"2022-09-13T17:14:07+0300"	"Data scientist (Risk)"	false	"https://hh.ru/vacancy/69774297"
-"67786829"	"2022-09-12T19:11:50+0300"	"Senior Data Scientist (Core Product)"	false	"https://hh.ru/vacancy/67786829"
+35895583	2020-04-12T12:06:33+0300	Специалист / data scientist (big data	 прогностическая аналитика	 data mining)	FALSE	FALSE	https://hh.ru/vacancy/35895583
+36359628	2020-04-11T19:25:48+0300	Senior Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36359628
+35218725	2020-04-11T18:03:53+0300	Junior Data scientist	FALSE	FALSE	https://hh.ru/vacancy/35218725
+36271196	2020-04-11T18:25:39+0300	NLP engineer / Data scientist NLP	TRUE	FALSE	https://hh.ru/vacancy/36271196
+36476804	2020-04-11T13:27:50+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36476804
+36552682	2020-04-11T16:33:53+0300	Data scientist/Портфельный аналитик	FALSE	FALSE	https://hh.ru/vacancy/36552682
+36023475	2020-04-11T17:11:30+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36023475
+36596125	2020-04-11T13:30:59+0300	Data Scientist (NLP) / Аналитик	FALSE	FALSE	https://hh.ru/vacancy/36596125
+36353277	2020-04-12T14:07:09+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36353277
+36431494	2020-04-11T17:26:27+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36431494
+36623053	2020-04-10T15:45:20+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36623053
+35613394	2020-04-10T12:12:27+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/35613394
+36324804	2020-04-10T09:26:02+0300	Аналитик Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36324804
+35466744	2020-04-10T14:36:20+0300	Data Scientist / Machine Learning Engineer	FALSE	FALSE	https://hh.ru/vacancy/35466744
+36624935	2020-04-10T18:02:03+0300	Data Scientist / Аналитик данных	FALSE	FALSE	https://hh.ru/vacancy/36624935
+36160619	2020-04-10T13:59:03+0300	Data Scientist	FALSE	FALSE	https://hh.ru/vacancy/36160619
+33481272	2020-04-10T16:12:16+0300	Data scientist (NLP/NLU)	FALSE	FALSE	https://hh.ru/vacancy/33481272
+36614898	2020-04-10T00:16:24+0300	Junior data scientist	FALSE	FALSE	https://hh.ru/vacancy/36614898
+36603873	2020-04-09T08:46:46+0300	Data Scientist (стажер)	FALSE	FALSE	https://hh.ru/vacancy/36603873
+36163568	2020-04-10T14:07:41+0300	Data scientist (аналитик/ моделист)	FALSE	FALSE	https://hh.ru/vacancy/36163568"

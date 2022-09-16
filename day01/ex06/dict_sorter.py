@@ -1,3 +1,7 @@
+#
+# def to_int(a):
+#     x = int(a)
+#     return ix)
 
 def data():
     list_of_tuples = [
@@ -23,11 +27,12 @@ def data():
         ('Israel', '12')
     ]
     dict1 = dict(list_of_tuples)
-    inv_dict = {value: key for key, value in dict1.items()}
-    # for key, value in dict1.items():
-    #     print("'" + value + "'" + " : " + "'" + key + "'")
+    dict1s = dict(sorted(dict1.items()))
+    dict2s = dict(sorted(dict1s.items(), key=lambda item: -int(item[1])))
+    # dict2s = dict(sorted(dict1s.items(), key=to_int(dict1.keys())))
+    inv_dict = {value: key for key, value in dict2s.items()}
     for key, value in inv_dict.items():
-        print("'" + key + "'" + " : " + "'" + value + "'")
+        print(inv_dict[key])
 
 if __name__ == '__main__':
-        data()
+    data()
