@@ -1,5 +1,6 @@
 import sys
 
+
 def search_by_value_or_by_key(argv):
     list_of_companies = argv.split(",")
     for n in range(len(list_of_companies)):
@@ -7,6 +8,9 @@ def search_by_value_or_by_key(argv):
     original_list = argv.split(",")
     for n in range(len(original_list)):
         original_list[n] = original_list[n].strip()
+    for n in range(len(original_list)):
+        if len(original_list[n]) == 0:
+            return
     COMPANIES = {
         'Apple': 'AAPL',
         'Microsoft': 'MSFT',
@@ -38,21 +42,7 @@ def search_by_value_or_by_key(argv):
         if flag == 0:
             print(original_list[n], "is an unknown company or an unknown ticker symbol")
 
-def check1(str):
-    i = 0
-    while str[i]:
-        while str[i] != ",":
-            i += 1
-        i += 1
-        while str[i] == " ":
-            i += 1
-        if str[i] == ",":
-            return 1
-    return 0
-
 if __name__ == '__main__':
     if len(sys.argv) == 2:
-        str = sys.argv[1]
-        if check1(str) == 0:
-            search_by_value_or_by_key(sys.argv[1])
+        search_by_value_or_by_key(sys.argv[1])
 
