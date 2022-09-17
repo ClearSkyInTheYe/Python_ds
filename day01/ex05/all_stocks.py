@@ -28,7 +28,7 @@ def search_by_value_or_by_key(argv):
         flag = 0
         list_of_companies[n] = list_of_companies[n].lower()
         list_of_companies[n] = list_of_companies[n].title()
-        original = list_of_companies[n]
+        # original = list_of_companies[n]
         if list_of_companies[n] in COMPANIES:
             print(list_of_companies[n], "stock price is", STOCKS[COMPANIES[list_of_companies[n]]])
             flag = 1

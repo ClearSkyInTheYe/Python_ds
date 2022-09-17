@@ -29,10 +29,8 @@ def data():
     dict1 = dict(list_of_tuples)
     dict1s = dict(sorted(dict1.items()))
     dict2s = dict(sorted(dict1s.items(), key=lambda item: -int(item[1])))
-    # dict2s = dict(sorted(dict1s.items(), key=to_int(dict1.keys())))
-    inv_dict = {value: key for key, value in dict2s.items()}
-    for key, value in inv_dict.items():
-        print(inv_dict[key])
+    for key, value in dict2s.items():
+        print(key)
 
 if __name__ == '__main__':
     data()
