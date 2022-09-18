@@ -23,11 +23,13 @@ def data():
         ('Israel', '12')
     ]
     dict1 = dict(list_of_tuples)
-    inv_dict = {value: key for key, value in dict1.items()}
-    # for key, value in dict1.items():
-    #     print("'" + value + "'" + " : " + "'" + key + "'")
-    for key, value in inv_dict.items():
-        print("'" + key + "'" + " : " + "'" + value + "'")
+    fdict = {}
+    for key, value in dict1.items():
+        fdict.setdefault(dict1[key], []).append(key)
+    for key, value in fdict.items():
+        for i in range(len(value)):
+            print(key, value[i])
+
 
 if __name__ == '__main__':
         data()

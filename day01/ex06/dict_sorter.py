@@ -1,7 +1,3 @@
-#
-# def to_int(a):
-#     x = int(a)
-#     return ix)
 
 def data():
     list_of_tuples = [
