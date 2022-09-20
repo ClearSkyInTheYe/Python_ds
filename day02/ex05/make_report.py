@@ -4,7 +4,7 @@ from analytics import Research
 def main():
     output = Research(FILEPATH).file_reader()
     element = Research.Calculations(output)
-    predict = Research.Analytics(3)
+    predict = Research.Analytics(NUM_OF_STEPS)
     observations = len(output)
     heads_count = element.count[0]
     tails_count = element.count[1]
